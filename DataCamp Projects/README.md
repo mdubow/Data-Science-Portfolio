@@ -10,4 +10,4 @@ Keywords: EDA, Matplotlib, Bootstrapping, Healthcare
 
 Logistic Regression is used to predict whether an individual's credit card application will be approved, with numerous background factors as model features. Project includes an extensive data cleaning process.
 
-Keywords: Pandas, Data Cleaning, EDA, Logistic Regression, Grid Search
+Keywords: Pandas, Data Cleaning, EDA, Logistic Regression, Grid Search, Finance
