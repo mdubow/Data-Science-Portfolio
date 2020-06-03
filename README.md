@@ -10,9 +10,7 @@ Keywords: Python, Pandas, Sklearn, Lasso Regression, Supervised Learning, Health
 
 This project uses accelerometer and blood alcohol data collected from 13 participants of a large bar crawl event. With the aim of machine learning, the aim is to predict whether an individual is drunk based on their movement. Movement is analyzed by computing the variance within the accelerometer position data over a 30-minute window after blood alcohol readings are registered.
 
-Note: Project is currently in progress.
-
-Keywords: Python, Pandas, Sklearn, Logistic Regression, Random Forest, Supervised Learning, Time Series Analysis, Healthcare and Research
+Keywords: Python, Pandas, Sklearn, Logistic Regression, Random Forest, Gradient Boost, Supervised Learning, Time Series Analysis, Healthcare and Research
 
 # DataCamp Projects
 
