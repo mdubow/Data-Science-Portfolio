@@ -1,7 +1,5 @@
 # Capstone Project 2: Bar Crawl
 
-This project is currently in progress. Come back later for updates!
-
 The aim of this project is to predict whether an individual is drunk based on their movement. The primary datasets used are TAC (transdermal alcohol content, similar to BAC) readings and 3-axis accelerometer data for each of 13 participants in this study. Variance in movement over 10-minute windows using the accelerometer data is calculated, the idea being that a drunk person will be less steady on their feet and therefore have more variance in movement. Variance data is then combined with TAC Readings in order to determine if someone is drunk. Finally, a machine learning model is constructed with variance in 3 axes as features and whether the label of "drunk" as the target variable.
 
 This folder contains the preliminary code, the final code, and project reports.
